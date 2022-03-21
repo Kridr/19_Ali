@@ -1,11 +1,11 @@
 # 19_Ali
-Выход программы следующий:
-Fit time no preprocessing: 0.7213978
-0.9555555555555556
-Fit time standardization: 0.7137961999999999
-0.4
-Fit time normalization: 0.7060342
-0.4
+Выход программы следующий:<br/>
+Fit time no preprocessing: 0.7213978<br/>
+0.9555555555555556<br/>
+Fit time standardization: 0.7137961999999999<br/>
+0.4<br/>
+Fit time normalization: 0.7060342<br/>
+0.4<br/>
 
 Это означает, что стандартизация и нормализация не дали прироста в производительности.
 Также accuracy заметно упало с использованием предобработки
